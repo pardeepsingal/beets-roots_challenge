@@ -22,11 +22,11 @@ npm install
 yarn run dev
 ```
 
-#### 3. Run the codebase at Local
+#### 3. Build the bundle for production
 
 ```bash
 # Start
-yarn run dev
+yarn run build
 ```
 
 ## 📚 Libraries
